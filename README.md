@@ -1,3 +1,9 @@
+![1](https://github.com/user-attachments/assets/09eb17ff-2668-413e-9366-d25e03741857)
+
+
+
+
+
 <h2>To-do List - Angular 16</h2>
 
 <p>Este projeto é uma aplicação de lista de tarefas (To-do List) desenvolvida com <strong>Angular 16</strong>. Ele demonstra o uso de novos conceitos e recursos introduzidos nesta versão, como <strong>signals</strong>, <strong>mutate</strong> e a injeção de dependências via função <strong>inject</strong>. A aplicação permite que os usuários criem, visualizem, concluam e removam tarefas, com as informações persistidas no LocalStorage.</p>
